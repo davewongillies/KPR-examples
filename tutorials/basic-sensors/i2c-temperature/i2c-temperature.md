@@ -10,7 +10,7 @@ See a video demonstration of this project [here](https://youtu.be/PR8Eof011IA).
 
 ##Components
 
-* [Digital Temperature Sensor Breakout](https://www.sparkfun.com/search`/results?term=tmp102)
+* [Digital Temperature Sensor Breakout](https://www.sparkfun.com/search/results?term=tmp102)
 
 ##Notes
 
